@@ -556,28 +556,28 @@
     </widget>
     <eLabel backgroundColor="blue_light" name="" position="200,290" size="810,1" zPosition="-9" foregroundColor="white" />
     <!-- info -->
-    <ePixmap alphatest="blend" pixmap="OctEtSD/extraspanel/flash.png" position="200,307" size="48,48" transparent="1" zPosition="10" />
+    <ePixmap alphatest="blend" pixmap="OctEtSD/icons/flash.png" position="200,307" size="48,48" transparent="1" zPosition="10" />
     <widget source="session.CurrentService" render="Label" position="270,300" size="710,38" font="RegularBold; 22" halign="left" valign="center" foregroundColor="white" backgroundColor="OE_Background" noWrap="1" transparent="1" zPosition="5">
       <convert type="LayoutInfo">Flesh,Full</convert>
     </widget>
     <widget source="session.Event_Now" borderColor="grey" borderWidth="1" render="Progress" foregroundColor="blue_light" backgroundColor="OE_Background" position="270,340" size="570,12" transparent="1" zPosition="6">
       <convert type="LayoutInfo">Flesh</convert>
     </widget>
-    <ePixmap alphatest="blend" pixmap="OctEtSD/extraspanel/ram.png" position="200,379" size="48,48" transparent="1" zPosition="10" />
+    <ePixmap alphatest="blend" pixmap="OctEtSD/icons/ram.png" position="200,379" size="48,48" transparent="1" zPosition="10" />
     <widget source="session.CurrentService" render="Label" position="270,372" size="710,38" font="RegularBold; 22" halign="left" valign="center" foregroundColor="white" backgroundColor="OE_Background" noWrap="1" transparent="1" zPosition="5">
       <convert type="LayoutInfo">MemTotal,Full</convert>
     </widget>
     <widget source="session.Event_Now" borderColor="grey" borderWidth="1" render="Progress" foregroundColor="blue_light" backgroundColor="OE_Background" position="270,412" size="570,12" transparent="1" zPosition="6">
       <convert type="LayoutInfo">MemTotal</convert>
     </widget>
-    <ePixmap alphatest="blend" pixmap="OctEtSD/extraspanel/disk.png" position="200,451" size="48,48" transparent="1" zPosition="10" />
+    <ePixmap alphatest="blend" pixmap="OctEtSD/icons/disk.png" position="200,451" size="48,48" transparent="1" zPosition="10" />
     <widget source="session.CurrentService" render="Label" position="270,444" size="710,38" font="RegularBold; 22" halign="left" valign="center" foregroundColor="green_light" backgroundColor="OE_Background" noWrap="1" transparent="1" zPosition="5">
       <convert type="LayoutInfo">HddInfo,Full</convert>
     </widget>
     <widget source="session.Event_Now" borderColor="grey" borderWidth="1" render="Progress" foregroundColor="green_light" backgroundColor="OE_Background" position="270,484" size="570,12" transparent="1" zPosition="6">
       <convert type="LayoutInfo">HddTotal</convert>
     </widget>
-    <ePixmap alphatest="blend" pixmap="OctEtSD/extraspanel/usb.png" position="200,524" size="48,48" transparent="1" zPosition="10" />
+    <ePixmap alphatest="blend" pixmap="OctEtSD/icons/usb.png" position="200,524" size="48,48" transparent="1" zPosition="10" />
     <widget source="session.CurrentService" render="Label" position="270,517" size="710,35" font="RegularBold; 22" halign="left" valign="center" foregroundColor="green_light" backgroundColor="OE_Background" noWrap="1" transparent="1" zPosition="5">
       <convert type="LayoutInfo">UsbInfo,Full</convert>
     </widget>
