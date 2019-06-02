@@ -3611,7 +3611,6 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)/2, orgpos.y() + (or
     <eLabel text="Skin by SkinMania" font="RegularBold; 20" backgroundColor="OE_Background" halign="center" position="955,470" size="280,35" transparent="1" />
     <eLabel text="Open Source" font="RegularBold; 26" backgroundColor="OE_Background" halign="center" position="290,255" size="630,40" transparent="1" foregroundColor="white" />
     <eLabel text="https://github.com/OpenVisionE2" font="RegularBold; 18" backgroundColor="OE_Background" halign="center" position="290,300" size="630,35" transparent="1" foregroundColor="white" />
-    <eLabel text="https://github.com/OpenPLi" font="RegularBold; 18" backgroundColor="OE_Background" halign="center" position="290,339" size="630,35" transparent="1" foregroundColor="white" />
     <eLabel text="Lets define enigma2 once more" position="290,450" size="630,35" font="RegularBold; 20" backgroundColor="Newback" foregroundColor="white" transparent="1" halign="center" />
     <eLabel text="https://openvision.tech" position="290,485" size="630,35" font="RegularBold; 20" backgroundColor="OE_Background" foregroundColor="white" transparent="1" halign="center" />
     <!-- Button -->
